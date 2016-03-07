@@ -1,0 +1,25 @@
+{
+    "appKeys": {
+        "WEATHER_CITY_KEY": 2,
+        "WEATHER_DESCRIPTION_KEY": 0,
+        "WEATHER_TEMPERATURE_KEY": 1
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Mikael Roos",
+    "longName": "The Perfect Face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Per Face",
+    "uuid": "4ee6025d-fe93-4ee9-bcb2-d12d8d49e990",
+    "versionCode": 1,
+    "versionLabel": "1.6",
+    "watchapp": {
+        "watchface": true
+    }
+}
